@@ -1,6 +1,6 @@
 header {
   background-color: var(--primary-color);
-  max-height: 80px;
+  max-height: 150px;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -10,13 +10,13 @@ header {
 
 header img {
   height: 100%;
-  max-height: 60px;
+  max-height: 80px;
 }
 
 header h1 {
-  font-family: var(--primary-font-family);
+  font-family: var(--font-family);
   color: var(--primary-font-color);
-  font-size: 48px;
+  font-size: 60px;
 }
 
 @media (max-width: 1050px) {

@@ -6,7 +6,8 @@
   --secondary-background-color: #700606;
   --primary-color: #db150b;
   --secondary-color: #ac1508;
-  --primary-font-family: Arial, Helvetica, sans-serif;
+  --primary-font-family: times, serif;
+  --font-family: URW Chancery L, cursive;
   --secondary-font-family: Consolas, monaco, monospace;
   --primary-font-color: #f5c2c2;
   --shadow-color: black;
