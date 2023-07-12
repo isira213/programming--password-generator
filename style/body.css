@@ -1,7 +1,7 @@
 body {
   display: flex;
   flex-direction: column;
-  color: white;
+  color: #f5c2c2;
 }
 
 .body-wrapper {
@@ -64,6 +64,7 @@ body {
   flex-direction: column;
   justify-content: space-between;
   font-size: 3vw;
+  accent-color: #f5c2c2;
 }
 
 @media (min-width: 1050px) {
@@ -98,5 +99,5 @@ input[type='range'] {
 input[type='checkbox'] {
   height: 30px;
   width: 30px;
-  background-color: blue;
+  background-color: #0a0202;
 }
